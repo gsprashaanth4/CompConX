@@ -24,21 +24,36 @@ note: standalone-USB capable arduino's must be used...leonardo used here.
 ## Shots
 these images and videos were shot with the arduinos connected to the same laptop for shooting purposes {my other laptop was definitely not battery dead... :/ }
 
-the GUI v.1  
+
+### the GUI v.1  
+
 ![Screenshot 2024-06-08 233543](https://github.com/LucifrBrkr/CompConX/assets/172132985/5e99ddc9-764a-4f90-9a42-7131989a719e)  
 
-the GUI v.2  
+
+### the GUI v.2  
+
 i thought it might be a good idea to just activate a screen and display the signals...but meh..  
+
 ![Screenshot 2024-06-08 233450](https://github.com/LucifrBrkr/CompConX/assets/172132985/40dc4914-7178-48c9-bf9a-09a545234707)  
 
 Notice the first two programs only recorded 11 bytes of data, this is because they were tailored for It takes Two  
 The next version recorded 19 bytes of data approaching complete controller emulation... :]  
 
-the GUI v.3  
+
+### the GUI v.3  
+
 look at that beauty, real piece of work... :))  
+
 ![Screenshot 2024-06-08 230947](https://github.com/LucifrBrkr/CompConX/assets/172132985/be764e65-95b9-4805-870e-db87a848c46a)  
 
-the Setup  
+in Action...  
+
+https://github.com/LucifrBrkr/CompConX/assets/172132985/f5373638-5a4d-4609-bf7b-d56e7792d7fd  
+
+### the Setup  
+
+The two arduinos connected via I2C...  
+
 ![Screenshot 2024-06-08 232652](https://github.com/LucifrBrkr/CompConX/assets/172132985/97e2bb59-4fa7-4d5e-86d5-bd7f2f09aa73)  
 
 ## Important Links
