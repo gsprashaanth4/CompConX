@@ -90,8 +90,8 @@ int stickMove = 25;
   
 // Set your max and min joystick values here
 
-int valJRx, valJRy = 0;
-int valJLx, valJLy = 0;
+int valJRx,valJRy = 0;
+int valJLx,valJLy = 0;
 
   
 //############################################################
